@@ -3,7 +3,7 @@
   "version": 2,
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "Dapper/1.50.2": {
+      "Dapper/1.50.0": {
         "type": "package",
         "dependencies": {
           "System.Collections": "4.0.11",
@@ -2553,12 +2553,12 @@
     }
   },
   "libraries": {
-    "Dapper/1.50.2": {
-      "sha512": "PhxIV8TI/5aYdLT4epuIZB+Evf0sv9gcQDpFGa04fSKDfNQIChRq0sKUgQbfpFWbuDW/UDDuiL3Grkhp/cvYrA==",
+    "Dapper/1.50.0": {
+      "sha512": "pHf1WtHEvn82Y/2oB0ZavUuyxDMds+UymoZHtgEW6U2zAQLz0YfjIT8WxkWq+J5Cp7hwqFWb/0LHBMzdxyQu0A==",
       "type": "package",
-      "path": "Dapper/1.50.2",
+      "path": "Dapper/1.50.0",
       "files": [
-        "Dapper.1.50.2.nupkg.sha512",
+        "Dapper.1.50.0.nupkg.sha512",
         "Dapper.nuspec",
         "lib/net40/Dapper.dll",
         "lib/net40/Dapper.xml",
@@ -7828,7 +7828,7 @@
   },
   "projectFileDependencyGroups": {
     "": [
-      "Dapper >= 1.50.2-*",
+      "Dapper >= 1.50.0-*",
       "Microsoft.Extensions.Configuration.Json >= 1.0.0-*",
       "Newtonsoft.Json >= 9.0.1",
       "Npgsql >= 3.1.*"

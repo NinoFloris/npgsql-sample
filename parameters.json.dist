@@ -1,5 +1,5 @@
 {
     "ConnectionStrings": {
-        "postgres": "Server=127.0.0.1;Port=5432;Database=sample;User Id=sample;Password=sample123;Enlist=true;",
+        "Server=127.0.0.1;Port=5432;Database=crowded_test;User Id=crowded;Password=crowded123;Enlist=true;"
     }
 }
